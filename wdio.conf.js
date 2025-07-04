@@ -400,7 +400,8 @@ export const config = {
        
 //     ],
  specs: [
-        './test/specs/firstTest.js'
+        './test/specs/firstTest.js',
+        './test/specs/firstTest copy.js'
     ],
     // Patterns to exclude.
     exclude: [
